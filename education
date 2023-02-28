@@ -3,5 +3,6 @@
 void main()
 {
   cout<<"Hello This is first program";
+  cout<<"Added new line";
   cout<<"thank you"
 }
